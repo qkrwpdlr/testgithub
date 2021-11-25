@@ -9,3 +9,5 @@ const result = (() => {
     }
     return temp
 })(numArr)
+
+console.log(result)
